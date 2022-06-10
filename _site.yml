@@ -1,0 +1,11 @@
+name: "Delana Turner"
+output_dir: "."
+navbar:
+  title: "Delana Turner"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Baby Name Data"
+      href: babynames.html
